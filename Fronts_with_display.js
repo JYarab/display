@@ -22,24 +22,24 @@ class SLL {
     }
 
 
-}
+// }
 
-class ListNode {
-    constructor(val) {
-        this.val = val
-        this.next = null                
-    }
-}
+// class ListNode {
+//     constructor(val) {
+//         this.val = val
+//         this.next = null                
+//     }
+// }
 
-// YOYOYOYO JORDAN HERE WASSSUPPPPP
-
-var testSll = new SLL;
-testSll.addFront(10);
+// var testSll = new SLL;
+// testSll.addFront(10);
 testSll.addFront(5);
 console.log(testSll)
 console.log(testSll.front())
 console.log(testSll.removeFront())
-console.log(testSll.front())
+// console.log(testSll.front())
 
 // Unicorn's are AWESOME!!!!!
+
+//just broke your code muahaha
 
