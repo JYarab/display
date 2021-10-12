@@ -31,6 +31,7 @@ class ListNode {
     }
 }
 
+// YOYOYOYO JORDAN HERE WASSSUPPPPP
 
 var testSll = new SLL;
 testSll.addFront(10);
